@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 I'm a second-year studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. <br>
-Let's connect for projects!
 
-🔐 I’m currently learning blockchains and Solidity
-🍎 Developing a web-app to combat food insecurity in Hudson County
-📫 How to reach me: yousef@princeton.edu
+🔐 I’m currently learning blockchains and Solidity <br>
+🍎 Developing a web-app to combat food insecurity in Hudson County <br>
+📫 How to reach me: yousef@princeton.edu <br>
+
+Let's connect for projects!
 
 <!--
 **Yousef-Amin/Yousef-Amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
