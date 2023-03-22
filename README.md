@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a second-year studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. 
+I'm a second-year studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. <br>
 Let's connect for projects!
 
 🔐 I’m currently learning blockchains and Solidity
