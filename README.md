@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up! 🤙
 
 I'm a second-year studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. <br>
 
