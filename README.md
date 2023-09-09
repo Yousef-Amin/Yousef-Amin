@@ -1,9 +1,9 @@
 ### What's up! 🤙
 
-I'm a second-year studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. <br>
+I'm a third-year studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. <br>
 
-🔐 I’m currently learning blockchains and Solidity <br>
-🍎 Developing a web-app to combat food insecurity in Hudson County <br>
+🔐 I’m currently learning blockchains and computer architecture <br>
+🤯 Performing research on natural algorithms <br>
 📫 How to reach me: yousef@princeton.edu <br>
 
 Let's connect for projects!
