@@ -1,6 +1,6 @@
 ### What's up! 🤙
 
-I'm a third-year studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. <br>
+I'm a senior studying Computer Science 💻, with minors in ML 🤖 and Entrepreneurship 📈, at Princeton University. <br>
 
 🔐 I’m currently learning blockchains and computer architecture <br>
 🤯 Performing research on natural algorithms <br>
